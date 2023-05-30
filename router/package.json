@@ -1,0 +1,23 @@
+{
+  "name": "@lightdevjs/route",
+  "version": "1.0.0",
+  "main": "route.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LightDevJs/LightDevJs/route"
+  },
+  "keywords": [
+    "route",
+    "routing"
+  ],
+  "author": "sythlex",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "typescript": "^5.0.4"
+  }
+}

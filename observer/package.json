@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "typescript": "^5.0.4"
+  },
+  "name": "@lightdevjs/observer",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LightDevJs/LightDevJs.git"
+  },
+  "keywords": [
+    "observer",
+    "listener"
+  ],
+  "author": "Alexandr Sitdikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LightDevJs/LightDevJs/issues"
+  },
+  "homepage": "https://github.com/LightDevJs/LightDevJs#readme",
+  "description": ""
+}
